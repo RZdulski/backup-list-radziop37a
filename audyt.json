@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-10",
+  "public_lists": 409,
+  "entry_occurrences": 6462,
+  "unique_backloggd_entries": 6014,
+  "unique_total": 6024,
+  "description_mentions": 27,
+  "description_only_games": 10,
+  "live_metadata": 5098,
+  "cached_metadata": 916,
+  "pending_metadata": 0,
+  "incomplete_source_metadata": 44,
+  "reviewed_source_gaps": 44,
+  "source_counts_match": true,
+  "source_urls_match": true,
+  "duplicate_keys": 0,
+  "excluded_description_mentions": [
+    {
+      "mention": "SRPG studio - rpg maker do robienia gier a la fire emblem",
+      "list": "tRPG / sRPG",
+      "reason": "Narzędzie SRPG Studio, nie gra."
+    },
+    {
+      "mention": "paradise project",
+      "list": "Indie RPG",
+      "reason": "Paradise Project to wydawca, nie tytuł gry.",
+      "sources": [
+        "https://www.pcgamingwiki.com/wiki/Company:Paradise_Project",
+        "https://www.mobygames.com/company/38806/paradise-project/"
+      ]
+    }
+  ]
+}
