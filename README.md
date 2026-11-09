@@ -1,6 +1,6 @@
 # Backup z list radziop37a
 
-Snapshot publicznych list: 2026-10-10. 409 list; 6024 pozycji.
+Snapshot publicznych list: 2026-10-10. Aktualizacja atlasu: 2026-11-09. 409 list; 6029 pozycji. Ręczne przypisania: 5.
 
 Rok oznacza datę przypisaną do danego wpisu lub wersji gry. Odrębne wydania mają odrębne wpisy. Źródło oznaczone „opis” wskazuje wzmiankę w opisie listy.
 

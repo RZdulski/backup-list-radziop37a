@@ -1,6 +1,6 @@
 # Backup z list radziop37a
 
-Snapshot publicznych list: 2026-10-10. 409 list; 6024 pozycji.
+Snapshot publicznych list: 2026-10-10. Aktualizacja atlasu: 2026-11-09. 409 list; 6029 pozycji. Ręczne przypisania: 5.
 
 Rok oznacza datę przypisaną do danego wpisu lub wersji gry. Odrębne wydania mają odrębne wpisy. Źródło oznaczone „opis” wskazuje wzmiankę w opisie listy.
 
@@ -226,6 +226,8 @@ Status: do odczytania metadane 0 pozycji; niepełne dane w odczytanym źródle: 
 | 1996 | [The King of Fighters '96](https://backloggd.com/games/the-king-of-fighters-96/) | PlayStation 3; PlayStation Portable; Wii; PlayStation; Sega Saturn; Neo Geo AES; Neo Geo CD; Arcade | Fighting | [The King of Fighters](https://backloggd.com/u/radziop37a/list/the-king-of-fighters/) |
 | 1996 | [The Neverhood](https://backloggd.com/games/the-neverhood--1/) | Windows PC; PlayStation | Adventure; Point-and-Click; Puzzle | [Point & Click](https://backloggd.com/u/radziop37a/list/point--click/) |
 | 1996 | [The Settlers II: Veni, Vidi, Vici](https://backloggd.com/games/the-settlers-ii-veni-vidi-vici/) | macOS; DOS | strategia ekonomiczna | [Age of Empires & Clones](https://backloggd.com/u/radziop37a/list/age-of-empires--clones/) |
+| 1996 | [Twilight Syndrome Kyuumei-hen](https://backloggd.com/games/twilight-syndrome-kyuumei-hen/) | PlayStation | Adventure; Horror | [PSone](https://backloggd.com/u/radziop37a/list/psone/) (dodatek ręczny) |
+| 1996 | [Twilight Syndrome Tansaku-hen](https://backloggd.com/games/twilight-syndrome-tansaku-hen/) | PlayStation | Adventure; Horror | [PSone](https://backloggd.com/u/radziop37a/list/psone/) (dodatek ręczny) |
 | 1996 | [Vandal Hearts](https://backloggd.com/games/vandal-hearts/) | Windows PC; PlayStation; Sega Saturn | RPG; Strategy; Tactical; Turn Based Strategy | [tRPG / sRPG](https://backloggd.com/u/radziop37a/list/trpg--srpg/) |
 | 1996 | [Wild Arms](https://backloggd.com/games/wild-arms/) | PlayStation 3; PlayStation Portable; PlayStation; Android | RPG | [Wild Arms](https://backloggd.com/u/radziop37a/list/wild-arms/) |
 | 1996 | [Wing Commander IV: The Price of Freedom](https://backloggd.com/games/wing-commander-iv-the-price-of-freedom/) | Windows PC; Mac; DOS | Simulator | [Chris Roberts Games](https://backloggd.com/u/radziop37a/list/chris-roberts-games/) |
@@ -1341,6 +1343,7 @@ Status: do odczytania metadane 0 pozycji; niepełne dane w odczytanym źródle: 
 | 2007 | [Link's Crossbow Training](https://backloggd.com/games/link-s-crossbow-training/) | Wii | Shooter | [Nintendo Wii / WiiU](https://backloggd.com/u/radziop37a/list/nintendo-wii--wiiu/) |
 | 2007 | [Little Busters!](https://backloggd.com/games/little-busters/) | Windows PC | Adventure; Visual Novel | [Visual Novels](https://backloggd.com/u/radziop37a/list/visual-novels/) |
 | 2007 | [Lost Odyssey](https://backloggd.com/games/lost-odyssey/) | Xbox 360 | JRPG | [7th Gen Exclusive](https://backloggd.com/u/radziop37a/list/7th-gen-exclusive/); [Mistwalker Games](https://backloggd.com/u/radziop37a/list/mistwalker-games/) |
+| 2007 | [Luminous Arc](https://backloggd.com/games/luminous-arc/) | Nintendo DS | RPG; Strategy; Turn Based Strategy | [tRPG / sRPG](https://backloggd.com/u/radziop37a/list/trpg--srpg/) (dodatek ręczny) |
 | 2007 | [Mana Khemia: Alchemists of Al-Revis](https://backloggd.com/games/mana-khemia-alchemists-of-al-revis/) | PlayStation Portable; PlayStation 2 | Adventure; RPG | [6th Generation Exclusives](https://backloggd.com/u/radziop37a/list/6th-generation-exclusives/) |
 | 2007 | [Manhunt 2](https://backloggd.com/games/manhunt-2/) | Windows PC; PlayStation Portable; Wii; PlayStation 2 | Adventure | [Other Rockstar games](https://backloggd.com/u/radziop37a/list/other-rockstar-games/); [Nintendo Wii / WiiU](https://backloggd.com/u/radziop37a/list/nintendo-wii--wiiu/) |
 | 2007 | [Mario Strikers Charged](https://backloggd.com/games/mario-strikers-charged/) | Wii U; Wii | Sport | [Mario Sports' Games](https://backloggd.com/u/radziop37a/list/mario-sports-games/) |
@@ -1495,6 +1498,7 @@ Status: do odczytania metadane 0 pozycji; niepełne dane w odczytanym źródle: 
 | 2008 | [LittleBigPlanet](https://backloggd.com/games/littlebigplanet/) | PS3 | platformowa, tworzenie | [Little Big Planet](https://backloggd.com/u/radziop37a/list/little-big-planet/) |
 | 2008 | [LocoRoco 2](https://backloggd.com/games/locoroco-2/) | PlayStation Portable | Adventure; Platform; Puzzle | [Loco Roco](https://backloggd.com/u/radziop37a/list/loco-roco/) |
 | 2008 | [Lost: Via Domus](https://backloggd.com/games/lost-via-domus/) | Windows PC; PlayStation 3; Xbox 360 | Adventure; Puzzle | [7th Gen Exclusive](https://backloggd.com/u/radziop37a/list/7th-gen-exclusive/) |
+| 2008 | [Luminous Arc 2](https://backloggd.com/games/luminous-arc-2/) | Nintendo DS | RPG; Strategy; Turn Based Strategy | [tRPG / sRPG](https://backloggd.com/u/radziop37a/list/trpg--srpg/) (dodatek ręczny) |
 | 2008 | [Mana Khemia 2: Fall of Alchemy](https://backloggd.com/games/mana-khemia-2-fall-of-alchemy/) | PlayStation 3; PlayStation Portable; PlayStation 2 | RPG | [6th Generation Exclusives](https://backloggd.com/u/radziop37a/list/6th-generation-exclusives/) |
 | 2008 | [Mario Super Sluggers](https://backloggd.com/games/mario-super-sluggers/) | Wii U; Wii | Sport | [Mario Sports' Games](https://backloggd.com/u/radziop37a/list/mario-sports-games/) |
 | 2008 | [Men of War](https://backloggd.com/games/men-of-war/) | Windows PC | Real Time Strategy; Simulator; Strategy | [Company of Heroes & Clones](https://backloggd.com/u/radziop37a/list/company-of-heroes--clones/) |
@@ -1660,6 +1664,7 @@ Status: do odczytania metadane 0 pozycji; niepełne dane w odczytanym źródle: 
 | 2009 | [Little King's Story](https://backloggd.com/games/little-king-s-story/) | Windows PC; Wii | Real Time Strategy; RPG; Simulator; Strategy | [7th Gen Exclusive](https://backloggd.com/u/radziop37a/list/7th-gen-exclusive/) |
 | 2009 | [LittleBigPlanet](https://backloggd.com/games/littlebigplanet--1/) | PlayStation Portable | Adventure; Platform; Puzzle | [Little Big Planet](https://backloggd.com/u/radziop37a/list/little-big-planet/) |
 | 2009 | [LocoRoco Midnight Carnival](https://backloggd.com/games/locoroco-midnight-carnival/) | PlayStation Portable | Platform; Puzzle | [Loco Roco](https://backloggd.com/u/radziop37a/list/loco-roco/) |
+| 2009 | [Luminous Arc 3](https://backloggd.com/games/luminous-arc-3/) | Nintendo DS | RPG; Strategy; Turn Based Strategy | [tRPG / sRPG](https://backloggd.com/u/radziop37a/list/trpg--srpg/) (dodatek ręczny) |
 | 2009 | [Lunar: Silver Star Harmony](https://backloggd.com/games/lunar-silver-star-harmony/) | PlayStation Portable | RPG | [Lunar](https://backloggd.com/u/radziop37a/list/lunar/) |
 | 2009 | [Machinarium](https://backloggd.com/games/machinarium/) | Windows PC Mac Linux Nintendo Switch PlayStation 4 PlayStation Vita Xbox One PlayStation 3 Android iOS | Point & Click | [Point & Click](https://backloggd.com/u/radziop37a/list/point--click/) |
 | 2009 | [MadWorld](https://backloggd.com/games/madworld/) | Wii | Brawler | [Nintendo Wii / WiiU](https://backloggd.com/u/radziop37a/list/nintendo-wii--wiiu/); [Yasumi Matsuno Games](https://backloggd.com/u/radziop37a/list/yasumi-matsuno-games/) |
