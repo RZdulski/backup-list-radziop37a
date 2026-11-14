@@ -7,10 +7,10 @@
     "public_lists": 409,
     "entry_occurrences": 6462,
     "unique_backloggd_entries": 6014,
-    "unique_total": 6030,
+    "unique_total": 6031,
     "description_mentions": 27,
     "updated_at": "2026-11-14",
-    "manual_assignments": 6,
+    "manual_assignments": 7,
     "description_only_games": 10,
     "live_metadata": 5098,
     "cached_metadata": 916,
@@ -47070,6 +47070,29 @@
       ],
       "notes": "",
       "release_text": "2011",
+      "metadata_status": "complete"
+    },
+    {
+      "title": "Rusted Warfare",
+      "url": "https://backloggd.com/games/rusted-warfare/",
+      "id": null,
+      "sources": [
+        {
+          "title": "Command & Conquer and Clones",
+          "url": "https://backloggd.com/u/radziop37a/list/command--conquer-and-clones/",
+          "origin": "manual",
+          "added_at": "2026-11-14"
+        }
+      ],
+      "year": 2011,
+      "platform": "Windows PC; macOS; Linux; Android; iOS",
+      "genre": "Indie; Real Time Strategy; Strategy",
+      "metadata_origin": "manual_research",
+      "metadata_sources": [
+        "https://backloggd.com/games/rusted-warfare/"
+      ],
+      "notes": "",
+      "release_text": "",
       "metadata_status": "complete"
     },
     {

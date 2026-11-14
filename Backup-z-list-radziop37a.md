@@ -1,6 +1,6 @@
 # Backup z list radziop37a
 
-Snapshot publicznych list: 2026-10-10. Aktualizacja atlasu: 2026-11-14. 409 list; 6030 pozycji. Ręczne przypisania: 6.
+Snapshot publicznych list: 2026-10-10. Aktualizacja atlasu: 2026-11-14. 409 list; 6031 pozycji. Ręczne przypisania: 7.
 
 Rok oznacza datę przypisaną do danego wpisu lub wersji gry. Odrębne wydania mają odrębne wpisy. Źródło oznaczone „opis” wskazuje wzmiankę w opisie listy.
 
@@ -2019,6 +2019,7 @@ Status: do odczytania metadane 0 pozycji; niepełne dane w odczytanym źródle: 
 | 2011 | [Rhythm Heaven Fever](https://backloggd.com/games/rhythm-heaven-fever/) | Wii U; Wii | Music | [Rhythm Games](https://backloggd.com/u/radziop37a/list/rhythm-games/) |
 | 2011 | [Ridge Racer](https://backloggd.com/games/ridge-racer/) | PlayStation Vita | Racing | [Ridge Racer](https://backloggd.com/u/radziop37a/list/ridge-racer/) |
 | 2011 | [Ridge Racer 3D](https://backloggd.com/games/ridge-racer-3d/) | Nintendo 3DS | Racing | [Nintendo 3DS](https://backloggd.com/u/radziop37a/list/nintendo-3ds/); [Ridge Racer](https://backloggd.com/u/radziop37a/list/ridge-racer/) |
+| 2011 | [Rusted Warfare](https://backloggd.com/games/rusted-warfare/) | Windows PC; macOS; Linux; Android; iOS | Indie; Real Time Strategy; Strategy | [Command & Conquer and Clones](https://backloggd.com/u/radziop37a/list/command--conquer-and-clones/) (dodatek ręczny) |
 | 2011 | [Serious Sam 3: BFE](https://backloggd.com/games/serious-sam-3-bfe/) | Windows PC; Mac; Linux; PlayStation 3; Xbox 360 | Indie; Puzzle; Shooter | [Serious Sam](https://backloggd.com/u/radziop37a/list/serious-sam/) |
 | 2011 | [Shin Megami Tensei: Devil Survivor Overclocked](https://backloggd.com/games/shin-megami-tensei-devil-survivor-overclocked/) | Nintendo 3DS | RPG; Strategy; Tactical | [Shin Megami Tensei Spin Offs](https://backloggd.com/u/radziop37a/list/shin-megami-tensei-spin-offs/) |
 | 2011 | [Shin Megami Tensei: Persona 2 - Innocent Sin](https://backloggd.com/games/shin-megami-tensei-persona-2-innocent-sin/) | PlayStation Portable | RPG | [Persona](https://backloggd.com/u/radziop37a/list/persona/) |
