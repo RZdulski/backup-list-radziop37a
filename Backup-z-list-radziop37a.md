@@ -1,6 +1,6 @@
 # Backup z list radziop37a
 
-Snapshot publicznych list: 2026-10-10. Aktualizacja atlasu: 2026-11-09. 409 list; 6029 pozycji. Ręczne przypisania: 5.
+Snapshot publicznych list: 2026-10-10. Aktualizacja atlasu: 2026-11-14. 409 list; 6030 pozycji. Ręczne przypisania: 6.
 
 Rok oznacza datę przypisaną do danego wpisu lub wersji gry. Odrębne wydania mają odrębne wpisy. Źródło oznaczone „opis” wskazuje wzmiankę w opisie listy.
 
@@ -5858,6 +5858,7 @@ Status: do odczytania metadane 0 pozycji; niepełne dane w odczytanym źródle: 
 | 2026 | [Moonlighter 2: The Endless Vault](https://backloggd.com/games/moonlighter-2-the-endless-vault/) | Windows PC; Nintendo Switch 2; PlayStation 5; Xbox Series X\|S | Adventure; RPG; Simulator | [Metroidvania / Platformer / Cinematic / Beat'em Up](https://backloggd.com/u/radziop37a/list/metroidvania--platformer--cinematic--beatem-up/); [Harvest Moon / Story of Seasons & Clones](https://backloggd.com/u/radziop37a/list/harvest-moon--story-of-seasons--clones/) |
 | 2026 | [Mortal Shell II](https://backloggd.com/games/mortal-shell-ii/) | Windows PC; PlayStation 5; Xbox Series X\|S | Adventure; RPG | [Souls-like Clones](https://backloggd.com/u/radziop37a/list/souls-like-clones/) |
 | 2026 | [Mouse: P.I. For Hire](https://backloggd.com/games/mouse-pi-for-hire--1/) | Windows PC; Nintendo Switch 2; PlayStation 5; Xbox Series X\|S | Adventure; Indie; Shooter | [Boomer shooter](https://backloggd.com/u/radziop37a/list/boomer-shooter/) |
+| 2026 | [Muchi Muchi Pork! & PinkSweets Boosted](https://backloggd.com/games/muchi-muchi-pork-and-pinksweets-boosted/) | Windows PC; PlayStation 5; Nintendo Switch | Arcade; Shooter; Bullet hell | [Side scrollers & Bullet Hell & Schmup](https://backloggd.com/u/radziop37a/list/side-scrollers--bullet-hell--schmup/) (dodatek ręczny) |
 | 2026 | [NBA The Run](https://backloggd.com/games/nba-the-run--1/) | Windows PC; PlayStation 5; Xbox Series X\|S | Arcade; Sport | [NBA Jam](https://backloggd.com/u/radziop37a/list/nba-jam/) |
 | 2026 | [Neon Abyss 2](https://backloggd.com/games/neon-abyss-2/) | Windows PC; PlayStation 5; Xbox Series X\|S; Nintendo Switch | Adventure; Indie; RPG | [Metroidvania / Platformer / Cinematic / Beat'em Up](https://backloggd.com/u/radziop37a/list/metroidvania--platformer--cinematic--beatem-up/) |
 | 2026 | [Neva: Prologue](https://backloggd.com/games/neva-prologue/) | Windows PC; Linux; PlayStation 5; Xbox Series X\|S; Nintendo Switch; PlayStation 4; Xbox One | Adventure; Indie | [Metroidvania / Platformer / Cinematic / Beat'em Up](https://backloggd.com/u/radziop37a/list/metroidvania--platformer--cinematic--beatem-up/) |

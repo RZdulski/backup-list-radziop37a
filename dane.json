@@ -1,16 +1,16 @@
 {
   "title": "Backup z list radziop37a",
   "date": "2026-10-10",
-  "updated_at": "2026-11-09",
+  "updated_at": "2026-11-14",
   "audit": {
     "date": "2026-10-10",
     "public_lists": 409,
     "entry_occurrences": 6462,
     "unique_backloggd_entries": 6014,
-    "unique_total": 6029,
+    "unique_total": 6030,
     "description_mentions": 27,
-    "updated_at": "2026-11-09",
-    "manual_assignments": 5,
+    "updated_at": "2026-11-14",
+    "manual_assignments": 6,
     "description_only_games": 10,
     "live_metadata": 5098,
     "cached_metadata": 916,
@@ -137426,6 +137426,29 @@
       ],
       "notes": "",
       "release_text": "2026",
+      "metadata_status": "complete"
+    },
+    {
+      "title": "Muchi Muchi Pork! & PinkSweets Boosted",
+      "url": "https://backloggd.com/games/muchi-muchi-pork-and-pinksweets-boosted/",
+      "id": null,
+      "sources": [
+        {
+          "title": "Side scrollers & Bullet Hell & Schmup",
+          "url": "https://backloggd.com/u/radziop37a/list/side-scrollers--bullet-hell--schmup/",
+          "origin": "manual",
+          "added_at": "2026-11-14"
+        }
+      ],
+      "year": 2026,
+      "platform": "Windows PC; PlayStation 5; Nintendo Switch",
+      "genre": "Arcade; Shooter; Bullet hell",
+      "metadata_origin": "manual_research",
+      "metadata_sources": [
+        "https://backloggd.com/games/muchi-muchi-pork-and-pinksweets-boosted/"
+      ],
+      "notes": "",
+      "release_text": "",
       "metadata_status": "complete"
     },
     {
